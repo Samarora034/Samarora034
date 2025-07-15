@@ -1,10 +1,7 @@
-<!-- GitHub Profile README -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00ADB5&center=true&vCenter=true&width=435&lines=Hey%2C+I'm+Samarock+%F0%9F%91%8B;CS+Undergrad+%7C+Builder+%7C+Matrix+Explorer;Turning+Coffee+into+Code+%E2%98%95" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00ADB5&center=true&vCenter=true&width=435&lines=Hey%2C+I'm+Samarock+%F0%9F%91%8B;DevJesus+Turning+Coffee+into+Code+%E2%98%95" alt="Typing SVG" />
 </p>
-
----
 
 <h2 align="center">🚀 About Me</h2>
 
@@ -13,8 +10,6 @@ I'm <strong>Samarock</strong>, but you can call me <strong>Sam</strong>. I'm cur
 They say I'm just another human stuck in the matrix — but I believe I'm something more.  
 Not chasing a single goal, but driven by <strong>purpose</strong>. ✨
 </p>
-
----
 
 <h2 align="center">🛠️ Technologies & Tools</h2>
 
@@ -51,8 +46,6 @@ Not chasing a single goal, but driven by <strong>purpose</strong>. ✨
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=Visual%20Studio%20Code&logoColor=white" height="30"/>
 </p>
 
----
-
 <h2 align="center">📈 GitHub Stats</h2>
 
 <p align="center">
@@ -63,26 +56,6 @@ Not chasing a single goal, but driven by <strong>purpose</strong>. ✨
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Samarock&theme=react-dark" width="90%"/>
 </p>
-
----
-
-<h2 align="center">🎨 Theme</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Theme-Dark-000000?style=flat&logo=github&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/Vibe-Cyberpunk-ff0080?style=flat&logoColor=white" height="30"/>
-</p>
-
----
-
-<h2 align="center">📫 Let's Connect!</h2>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/samarock"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" height="30"/></a>
-  <a href="mailto:yourmail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" height="30"/></a>
-</p>
-
----
 
 <p align="center">
   📁 <i>Currently working on MERN stack projects & exploring open-source.</i> <br>
