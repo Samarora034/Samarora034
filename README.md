@@ -46,17 +46,6 @@ Not chasing a single goal, but driven by <strong>purpose</strong>. ✨
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=Visual%20Studio%20Code&logoColor=white" height="30"/>
 </p>
 
-<h2 align="center">📈 GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Samarock&show_icons=true&theme=radical" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Samarock&theme=radical" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Samarock&theme=react-dark" width="90%"/>
-</p>
-
 <p align="center">
   📁 <i>Currently working on MERN stack projects & exploring open-source.</i> <br>
   🍪 Comeback for a cookie (not really).
