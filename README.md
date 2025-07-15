@@ -40,14 +40,7 @@ Not chasing a single goal, but driven by purpose.
   <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=Visual%20Studio%20Code&logoColor=white" height="30">
 </p>
 
----
-
 📁 *Currently working on MERN stack projects & exploring open-source.*  
 🍪 Comeback for a cookie (not really).
-
-### 🎨 Theme
-<p align="center">
-  <img src="https://img.shields.io/badge/Theme-Hacker-00ff00?style=flat&logo=codeforces&logoColor=black" height="30">
-</p>
 
 **Sayonara!**
